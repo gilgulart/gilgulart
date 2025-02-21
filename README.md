@@ -1,8 +1,7 @@
 Olá, eu sou o Gil!
 
 
-- 🎶 Músico por hobbie
-- 👨‍🍳 Trabalho como Garçom no momento
+- 🎶 Músico
 - 🕓 Cursando Técnico ADS na Uniasselvi 
 - Estou aprendendo:
   
