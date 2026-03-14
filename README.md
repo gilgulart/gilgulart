@@ -2,7 +2,7 @@ Olá, eu sou o Gil!
 
 
 - 🎶 Músico
-- 🕓 Cursando Técnico ADS na Uniasselvi 
+- 🕓 Engenharia de Software | Univille 
 - Estou aprendendo:
   
 <img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50" /> <img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" height="50" /> 
